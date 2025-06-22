@@ -8,4 +8,4 @@ curl --output ../usr/bin/rish https://raw.githubusercontent.com/NemesisElectron/
 chmod 555 ../usr/bin/rish_shizuku.dex
 chmod 755 ../usr/bin/rish
 
-rish
+rish /sdcard/download/shell.*
