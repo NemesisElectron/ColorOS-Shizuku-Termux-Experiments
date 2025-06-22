@@ -1,3 +1,4 @@
-# First step
-Download `termux-setup-shizuku`\
-Run `sh /sdcard/Download/termux-setup-shizuku`
+# Steps to do
+Install `Termux` from `Google Play Store`\
+Download `shizuku.sh` from `GitHub`\
+Run `sh /sdcard/Download/shizuku.sh` with `Termux`
